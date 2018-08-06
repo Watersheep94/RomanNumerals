@@ -9,7 +9,7 @@ java -jar RomanNumerals.jar
 
 ## Why I Chose This Problem
 
-Roman Numerals was the 3rd problem Adobe recommended. When I looked, it seemed like a good puzzle-like problem compared to the other two. I thought it would make for an interesting challenge so I went with it.
+Roman Numerals was the 3rd problem recommended. When I looked, it seemed like a good puzzle-like problem compared to the other two. I thought it would make for an interesting challenge so I went with it.
 
 ## Process
 
